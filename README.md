@@ -6,9 +6,25 @@
  ###### Basic Web
 - Html Css Javascript TypeScript
  ###### Font-end Framework
-- React Next Vue(เคยใช้ตอน vue v.2)
+- React NextJs Vue(เคยใช้ตอน vue v.2)
  ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
+ ###### Oter
+- Redux-toolkid Redux-Thunk Redux-Saga
+
+### Back-end Skill
+- Express NestJs PHP(codeigniter) 
+
+### Database Skill
+ ###### Database Server
+- Mysql MongoDB SQLlite
+ ###### Npm Connect
+- Mongoose Sequelize
+
+### Other Skill
+- Git
+- NGINX(ใช้แบ่ง Port หากใช้  server เดียวในการ Deploy หลาย Project และติดตั้ง Cerbot SSL)
+
 
 <!--
 **backza20za/backza20za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
