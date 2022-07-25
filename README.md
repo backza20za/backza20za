@@ -6,8 +6,8 @@
 :point_right: Email: back4936nantawat@gmail.com <br>
 :point_right: Phone: 0878248671
 
-## 🧑🏻‍💻 My Skill
-### Font-end Skill
+## :raising_hand: My Skill
+### 🧑🏻‍💻 Font-end Skill
  ###### Basic Web
 - Html Css Javascript TypeScript
  ###### Font-end Framework
@@ -18,16 +18,16 @@
 - Redux-toolkid Redux-Thunk Redux-Saga(เคยใช้ และกำลังศึกษาเพิ่มเติม)
 - LineLogin LIFF Dialogflow
 
-### Back-end Skill
+### 🧑🏻‍💻 Back-end Skill
 - Express NestJs PHP(codeigniter) 
 
-### Database Skill
+### 🧑🏻‍💻 Database Skill
  ###### Database Server
 - Mysql MongoDB SQLlite
  ###### Npm Connect
 - Mongoose Sequelize
 
-### Other Skill
+### 🧑🏻‍💻 Other Skill
 - Git
 - NGINX(ใช้แบ่ง Port หากใช้  server เดียวในการ Deploy หลาย Project และติดตั้ง Cerbot SSL)
 
