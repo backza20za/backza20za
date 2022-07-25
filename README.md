@@ -6,7 +6,7 @@
 :point_right: Email: back4936nantawat@gmail.com <br>
 :point_right: Phone: 0878248671
 
-## :raising_hand: My Skill
+## 🧑🏻‍💻 My Skill
 ### Font-end Skill
  ###### Basic Web
 - Html Css Javascript TypeScript
