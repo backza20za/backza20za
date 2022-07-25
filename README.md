@@ -3,8 +3,8 @@
 ##### Get in Touch
 -:point_right: [Facebook](https://web.facebook.com/nantawat.wangsan/)<br>
 -:point_right: [Instram](https://www.instagram.com/back_ntw/)<br>
--:point_right: [Email] : back4936nantawat@gmail.com <br>
--:point_right: [Phone] : 0878248671
+-:point_right: Email: back4936nantawat@gmail.com <br>
+-:point_right: Phone: 0878248671
 
 ## :raising_hand: My Skill
 ### Font-end Skill
