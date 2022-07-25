@@ -1,5 +1,14 @@
 ### Hi I'm Nantawat Welcome to my github Profile :hand:
 - 😄 สวัสดีครับ ผม นันทวัฒน์ วังสาร หรือ แบ็ค ตอนนี้กำลังสนใจทำงานเกี่ยวกับสาย NodeJs ไม่ว่าจะเป็น Font-end,Back-end,Fullstack โดยใช้งาน NodeJs เป็นหลัก
+- 
+##### :raising_hand:My Skill
+###### Font-end Skill
+- ###### Basic Web
+- Html Css Javascript TypeScript
+- ###### Font-end Framework
+- React Next Vue(เคยใช้ตอน vue v.2)
+- ###### Matrial Design
+- Matrial-UI Ant-Design React-bootstrap 
 
 <!--
 **backza20za/backza20za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
