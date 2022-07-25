@@ -9,7 +9,7 @@
 - React NextJs Vue(เคยใช้ตอน vue v.2)
  ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
- ###### Oter
+ ###### Other
 - Redux-toolkid Redux-Thunk Redux-Saga
 
 ### Back-end Skill
