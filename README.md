@@ -3,11 +3,11 @@
 
 ## :raising_hand:My Skill
 ### Font-end Skill
-- ##### Basic Web
+ ###### Basic Web
 - Html Css Javascript TypeScript
-- ##### Font-end Framework
+ ###### Font-end Framework
 - React Next Vue(เคยใช้ตอน vue v.2)
-- ##### Matrial Design
+ ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
 
 <!--
