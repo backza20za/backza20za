@@ -1,5 +1,5 @@
 ### Hi I'm Nantawat Welcome to my github Profile :hand:
-- 🔭 I’m currently working on ...
+- 😄 สวัสดีครับ ผม นันทวัฒน์ วังสาร หรือ แบ็ค ตอนนี้กำลังสนใจทำงานเกี่ยวกับสาย NodeJs ไม่ว่าจะเป็น Font-end,Back-end,Fullstack โดยใช้งาน NodeJs เป็นหลัก
 
 <!--
 **backza20za/backza20za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
