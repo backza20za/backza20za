@@ -15,7 +15,7 @@
  ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
  ###### Other
-- Redux-toolkid Redux-Thunk Redux-Saga
+- Redux-toolkid Redux-Thunk Redux-Saga(เคยใช้ และกำลังศึกษาเพิ่มเติม)
 - LineLogin LIFF Dialogflow
 
 ### Back-end Skill
