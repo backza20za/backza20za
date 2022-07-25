@@ -11,6 +11,7 @@
 - Matrial-UI Ant-Design React-bootstrap 
  ###### Other
 - Redux-toolkid Redux-Thunk Redux-Saga
+- LineLogin LIFF Dialogflow
 
 ### Back-end Skill
 - Express NestJs PHP(codeigniter) 
