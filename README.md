@@ -11,7 +11,7 @@
  ###### Basic Web
 - Html Css Javascript TypeScript
  ###### Font-end Framework
-- React NextJs Vue(เคยใช้ตอน vue v.2)
+- React NextJs Vue.Js(vue.3)
  ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
  ###### Other
