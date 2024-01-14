@@ -11,25 +11,28 @@
  ###### Basic Web
 - Html Css Javascript TypeScript
  ###### Font-end Framework
-- React NextJs Vue.Js(vue.3)
+- React NextJs Vue.Js(vue.3) Angular Flutter
  ###### Matrial Design
 - Matrial-UI Ant-Design React-bootstrap 
  ###### Other
 - Redux-toolkid Redux-Thunk Redux-Saga(เคยใช้ และกำลังศึกษาเพิ่มเติม)
-- LineLogin LIFF Dialogflow
+- LineLogin LIFF Dialogflow LineMessagingAPI
 
 ### 🧑🏻‍💻 Back-end Skill
-- Express NestJs PHP(codeigniter) 
+- Express NestJs PHP(codeigniter) GOlang(sqlx เคยเขียนมาบ้าง)
 
 ### 🧑🏻‍💻 Database Skill
  ###### Database Server
-- Mysql MongoDB SQLlite
+- Mysql MongoDB SQLlite Oracle MSSqlServer
  ###### Npm Connect
-- Mongoose Sequelize
+- Mongoose Sequelize TypeORM
 
 ### 🧑🏻‍💻 Other Skill
-- Git
+- Git Github GitLab
+- GithubDesktop SourceTree(ปัจจุบันใช้เป็นหลัก)
 - NGINX(ใช้แบ่ง Port หากใช้  server เดียวในการ Deploy หลาย Project และติดตั้ง Cerbot SSL)
+- Ms Azure (Basic Deploy)
+- ChatGPT Example Question
 
 
 <!--
